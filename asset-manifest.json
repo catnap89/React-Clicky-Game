@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/React-Clicky-Game/static/css/main.8f8d3e23.chunk.css",
+    "main.js": "/React-Clicky-Game/static/js/main.d1337c81.chunk.js",
+    "main.js.map": "/React-Clicky-Game/static/js/main.d1337c81.chunk.js.map",
+    "runtime-main.js": "/React-Clicky-Game/static/js/runtime-main.e378ad77.js",
+    "runtime-main.js.map": "/React-Clicky-Game/static/js/runtime-main.e378ad77.js.map",
+    "static/js/2.646fb832.chunk.js": "/React-Clicky-Game/static/js/2.646fb832.chunk.js",
+    "static/js/2.646fb832.chunk.js.map": "/React-Clicky-Game/static/js/2.646fb832.chunk.js.map",
+    "index.html": "/React-Clicky-Game/index.html",
+    "precache-manifest.5532dc0f891aa87b5ad872f38a0ec18c.js": "/React-Clicky-Game/precache-manifest.5532dc0f891aa87b5ad872f38a0ec18c.js",
+    "service-worker.js": "/React-Clicky-Game/service-worker.js",
+    "static/css/main.8f8d3e23.chunk.css.map": "/React-Clicky-Game/static/css/main.8f8d3e23.chunk.css.map",
+    "static/media/beth.png": "/React-Clicky-Game/static/media/beth.4d5e65a0.png",
+    "static/media/birdperson.png": "/React-Clicky-Game/static/media/birdperson.612ba8d4.png",
+    "static/media/evilmorty.png": "/React-Clicky-Game/static/media/evilmorty.0657e1f4.png",
+    "static/media/gianthead.png": "/React-Clicky-Game/static/media/gianthead.978b3847.png",
+    "static/media/goldenford.png": "/React-Clicky-Game/static/media/goldenford.3774b39d.png",
+    "static/media/jerry.png": "/React-Clicky-Game/static/media/jerry.af8e8a84.png",
+    "static/media/jessica.png": "/React-Clicky-Game/static/media/jessica.a9644830.png",
+    "static/media/meeseeks.png": "/React-Clicky-Game/static/media/meeseeks.9667b7ee.png",
+    "static/media/morty.png": "/React-Clicky-Game/static/media/morty.244deeda.png",
+    "static/media/mr.png": "/React-Clicky-Game/static/media/mr.d61b2d5b.png",
+    "static/media/rick.png": "/React-Clicky-Game/static/media/rick.06b65841.png",
+    "static/media/summer.png": "/React-Clicky-Game/static/media/summer.afdbb7bf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e378ad77.js",
+    "static/js/2.646fb832.chunk.js",
+    "static/css/main.8f8d3e23.chunk.css",
+    "static/js/main.d1337c81.chunk.js"
+  ]
+}
