@@ -8,7 +8,7 @@ const Container = props => (
     "container d-flex flex-wrap justify-content-center shake" : "container d-flex flex-wrap justify-content-center"
   }>
     {/* props.character is given value in App.js render function */}
-    {props.characters.map((a, i) => <Character name={a} key={i} clickEvent={props.clickEvent} />)}
+    {props.characters.map((a, i) => <Character name={a} key={i} clickEvt={props.clickEvt} />)}
   </div>
 )
 
